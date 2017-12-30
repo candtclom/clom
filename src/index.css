@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+.centerText {
+  text-align: center;
+}
+
+.clomLogo {
+  height: 55px;
+  text-align: center;
+}
+
+.footerBackground {
+  width: 100%;
+  height: 100px;
+  background-color: #343d48;
+  bottom: 0;
+  left: 0;
+  padding-top: 2px;
+  padding-bottom: 5px;
+  text-align: center;
+  color: white;
+}
+
+.header {
+  background-color: white;
+  width: 100%;
+  height: 60px;
+  top: 0;
+  left: 0;
+  padding: 5px;
+  position: fixed;
+  text-align: center;
+}
+
+.instaLogo {
+  color: #000000;
+  height: 40px;
+}
+
+.navMargin {
+    margin-top: 80px;
+}
+
+.navTitle {
+  color: 'red';
+  width: 50%;
+}
