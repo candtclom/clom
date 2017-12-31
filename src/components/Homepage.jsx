@@ -8,7 +8,7 @@ class Homepage extends Component {
 
   render() {
     return (
-      <div>
+      <div className="content">
         <h4 className="centerText"> Homepage </h4>
         <hr width="75%"/>
         <p>
